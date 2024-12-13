@@ -24,4 +24,8 @@
 |  |
 | ------- |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DoneitP1/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/DoneitP1/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
