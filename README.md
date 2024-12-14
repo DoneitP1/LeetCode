@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DoneitP1/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/DoneitP1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DoneitP1/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/DoneitP1/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Hash Table
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/DoneitP1/LeetCode/tree/master/2868-continuous-subarrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DoneitP1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DoneitP1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
