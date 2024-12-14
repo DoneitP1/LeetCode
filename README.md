@@ -27,6 +27,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/DoneitP1/LeetCode/tree/master/0258-add-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DoneitP1/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Database
 |  |
@@ -64,6 +65,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/DoneitP1/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DoneitP1/LeetCode/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/DoneitP1/LeetCode/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DoneitP1/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/DoneitP1/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
