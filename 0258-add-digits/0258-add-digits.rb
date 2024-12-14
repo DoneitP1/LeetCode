@@ -1,0 +1,1 @@
+def add_digits(n) = n == 0 ? 0 : (n - 1) % 9 + 1
