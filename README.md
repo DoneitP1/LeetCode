@@ -69,6 +69,7 @@
 | [0013-roman-to-integer](https://github.com/DoneitP1/LeetCode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/DoneitP1/LeetCode/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/DoneitP1/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [2083-three-divisors](https://github.com/DoneitP1/LeetCode/tree/master/2083-three-divisors) |
 ## String
 |  |
 | ------- |
@@ -96,8 +97,13 @@
 | ------- |
 | [0258-add-digits](https://github.com/DoneitP1/LeetCode/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/DoneitP1/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [2083-three-divisors](https://github.com/DoneitP1/LeetCode/tree/master/2083-three-divisors) |
 ## Counting
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/DoneitP1/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/DoneitP1/LeetCode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
