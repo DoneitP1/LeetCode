@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/DoneitP1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/DoneitP1/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1917-maximum-average-pass-ratio](https://github.com/DoneitP1/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/DoneitP1/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DoneitP1/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/DoneitP1/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Hash Table
@@ -72,6 +73,7 @@
 | [0258-add-digits](https://github.com/DoneitP1/LeetCode/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/DoneitP1/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2083-three-divisors](https://github.com/DoneitP1/LeetCode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/DoneitP1/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0258-add-digits](https://github.com/DoneitP1/LeetCode/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/DoneitP1/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2083-three-divisors](https://github.com/DoneitP1/LeetCode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/DoneitP1/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Counting
 |  |
 | ------- |
