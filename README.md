@@ -12,6 +12,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DoneitP1/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DoneitP1/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/DoneitP1/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DoneitP1/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,11 +30,13 @@
 | [1917-maximum-average-pass-ratio](https://github.com/DoneitP1/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DoneitP1/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/DoneitP1/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DoneitP1/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DoneitP1/LeetCode/tree/master/0258-add-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DoneitP1/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DoneitP1/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Database
 |  |
 | ------- |
@@ -75,6 +78,7 @@
 | [2083-three-divisors](https://github.com/DoneitP1/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DoneitP1/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/DoneitP1/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DoneitP1/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
