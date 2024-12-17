@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DoneitP1/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DoneitP1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0204-count-primes](https://github.com/DoneitP1/LeetCode/tree/master/0204-count-primes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/DoneitP1/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1917-maximum-average-pass-ratio](https://github.com/DoneitP1/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DoneitP1/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/DoneitP1/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DoneitP1/LeetCode/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/DoneitP1/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DoneitP1/LeetCode/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/DoneitP1/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2083-three-divisors](https://github.com/DoneitP1/LeetCode/tree/master/2083-three-divisors) |
@@ -113,6 +115,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/DoneitP1/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DoneitP1/LeetCode/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/DoneitP1/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2083-three-divisors](https://github.com/DoneitP1/LeetCode/tree/master/2083-three-divisors) |
@@ -130,6 +133,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/DoneitP1/LeetCode/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/DoneitP1/LeetCode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/DoneitP1/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Greedy
