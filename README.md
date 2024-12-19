@@ -83,6 +83,7 @@
 | [0013-roman-to-integer](https://github.com/DoneitP1/LeetCode/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/DoneitP1/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DoneitP1/LeetCode/tree/master/0258-add-digits) |
+| [0888-mirror-reflection](https://github.com/DoneitP1/LeetCode/tree/master/0888-mirror-reflection) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/DoneitP1/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2083-three-divisors](https://github.com/DoneitP1/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DoneitP1/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/DoneitP1/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DoneitP1/LeetCode/tree/master/0258-add-digits) |
+| [0888-mirror-reflection](https://github.com/DoneitP1/LeetCode/tree/master/0888-mirror-reflection) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/DoneitP1/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2083-three-divisors](https://github.com/DoneitP1/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DoneitP1/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -153,4 +155,8 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/DoneitP1/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+## Geometry
+|  |
+| ------- |
+| [0888-mirror-reflection](https://github.com/DoneitP1/LeetCode/tree/master/0888-mirror-reflection) |
 <!---LeetCode Topics End-->
