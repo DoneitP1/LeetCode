@@ -16,6 +16,7 @@
 | [2722-prime-in-diagonal](https://github.com/DoneitP1/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/DoneitP1/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [2868-continuous-subarrays](https://github.com/DoneitP1/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DoneitP1/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DoneitP1/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/DoneitP1/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DoneitP1/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/DoneitP1/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DoneitP1/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DoneitP1/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DoneitP1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DoneitP1/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/DoneitP1/LeetCode/tree/master/0020-valid-parentheses) |
 | [0780-max-chunks-to-make-sorted](https://github.com/DoneitP1/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DoneitP1/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Linked List
 |  |
 | ------- |
@@ -155,6 +159,7 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/DoneitP1/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DoneitP1/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Geometry
 |  |
 | ------- |
@@ -177,4 +182,12 @@
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DoneitP1/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DoneitP1/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
