@@ -107,6 +107,7 @@
 | [0013-roman-to-integer](https://github.com/DoneitP1/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DoneitP1/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DoneitP1/LeetCode/tree/master/0020-valid-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/DoneitP1/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DoneitP1/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DoneitP1/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 ## Trie
@@ -225,4 +226,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/DoneitP1/LeetCode/tree/master/0494-target-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/DoneitP1/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
