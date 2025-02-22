@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DoneitP1/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DoneitP1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/DoneitP1/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/DoneitP1/LeetCode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/DoneitP1/LeetCode/tree/master/0204-count-primes) |
 | [0494-target-sum](https://github.com/DoneitP1/LeetCode/tree/master/0494-target-sum) |
@@ -242,4 +243,8 @@
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/DoneitP1/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/DoneitP1/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/DoneitP1/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
