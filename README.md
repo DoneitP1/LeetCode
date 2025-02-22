@@ -111,6 +111,7 @@
 | [0014-longest-common-prefix](https://github.com/DoneitP1/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DoneitP1/LeetCode/tree/master/0020-valid-parentheses) |
 | [0952-word-subsets](https://github.com/DoneitP1/LeetCode/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/DoneitP1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/DoneitP1/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DoneitP1/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DoneitP1/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -182,6 +183,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DoneitP1/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/DoneitP1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DoneitP1/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/DoneitP1/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DoneitP1/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/DoneitP1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/DoneitP1/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/DoneitP1/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -204,6 +207,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DoneitP1/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/DoneitP1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DoneitP1/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Indexed Tree
