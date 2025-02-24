@@ -54,6 +54,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DoneitP1/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/DoneitP1/LeetCode/tree/master/0258-add-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DoneitP1/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DoneitP1/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -95,6 +96,7 @@
 | [0009-palindrome-number](https://github.com/DoneitP1/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DoneitP1/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/DoneitP1/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/DoneitP1/LeetCode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/DoneitP1/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DoneitP1/LeetCode/tree/master/0258-add-digits) |
 | [0888-mirror-reflection](https://github.com/DoneitP1/LeetCode/tree/master/0888-mirror-reflection) |
@@ -114,6 +116,7 @@
 | [0014-longest-common-prefix](https://github.com/DoneitP1/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DoneitP1/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DoneitP1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/DoneitP1/LeetCode/tree/master/0067-add-binary) |
 | [0952-word-subsets](https://github.com/DoneitP1/LeetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/DoneitP1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/DoneitP1/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -253,4 +256,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DoneitP1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/DoneitP1/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
