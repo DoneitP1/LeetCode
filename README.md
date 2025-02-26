@@ -118,6 +118,7 @@
 | [0014-longest-common-prefix](https://github.com/DoneitP1/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DoneitP1/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DoneitP1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/DoneitP1/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/DoneitP1/LeetCode/tree/master/0067-add-binary) |
 | [0952-word-subsets](https://github.com/DoneitP1/LeetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/DoneitP1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
