@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/DoneitP1/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/DoneitP1/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/DoneitP1/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/DoneitP1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/DoneitP1/LeetCode/tree/master/0204-count-primes) |
 | [0494-target-sum](https://github.com/DoneitP1/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/DoneitP1/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -41,6 +42,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/DoneitP1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/DoneitP1/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DoneitP1/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Heap (Priority Queue)
@@ -258,6 +260,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/DoneitP1/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DoneitP1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/DoneitP1/LeetCode/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
