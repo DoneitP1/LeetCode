@@ -198,6 +198,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/DoneitP1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DoneitP1/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DoneitP1/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/DoneitP1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -209,6 +210,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/DoneitP1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DoneitP1/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DoneitP1/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/DoneitP1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -219,6 +221,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/DoneitP1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DoneitP1/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DoneitP1/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DoneitP1/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -228,6 +231,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/DoneitP1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DoneitP1/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DoneitP1/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/DoneitP1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
