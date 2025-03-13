@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/DoneitP1/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/DoneitP1/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/DoneitP1/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DoneitP1/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0204-count-primes](https://github.com/DoneitP1/LeetCode/tree/master/0204-count-primes) |
 | [0494-target-sum](https://github.com/DoneitP1/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/DoneitP1/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DoneitP1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DoneitP1/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [0100-same-tree](https://github.com/DoneitP1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DoneitP1/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DoneitP1/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DoneitP1/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/DoneitP1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -232,6 +235,7 @@
 | [0100-same-tree](https://github.com/DoneitP1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DoneitP1/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DoneitP1/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DoneitP1/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/DoneitP1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -285,4 +289,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DoneitP1/LeetCode/tree/master/0070-climbing-stairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DoneitP1/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
