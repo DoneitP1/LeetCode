@@ -265,6 +265,7 @@
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/DoneitP1/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/DoneitP1/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Dynamic Programming
 |  |
@@ -278,6 +279,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/DoneitP1/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/DoneitP1/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DoneitP1/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/DoneitP1/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2562-count-ways-to-build-good-strings](https://github.com/DoneitP1/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Backtracking
 |  |
@@ -310,4 +312,12 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DoneitP1/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/DoneitP1/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/DoneitP1/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
