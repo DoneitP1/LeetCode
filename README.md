@@ -107,6 +107,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DoneitP1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/DoneitP1/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/DoneitP1/LeetCode/tree/master/0069-sqrtx) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DoneitP1/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Divide and Conquer
 |  |
@@ -124,6 +125,7 @@
 | [0013-roman-to-integer](https://github.com/DoneitP1/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/DoneitP1/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DoneitP1/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/DoneitP1/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DoneitP1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/DoneitP1/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DoneitP1/LeetCode/tree/master/0171-excel-sheet-column-number) |
