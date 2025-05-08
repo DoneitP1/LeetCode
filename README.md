@@ -49,6 +49,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/DoneitP1/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DoneitP1/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DoneitP1/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/DoneitP1/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0768-partition-labels](https://github.com/DoneitP1/LeetCode/tree/master/0768-partition-labels) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/DoneitP1/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/DoneitP1/LeetCode/tree/master/0952-word-subsets) |
@@ -166,6 +167,7 @@
 | [0125-valid-palindrome](https://github.com/DoneitP1/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/DoneitP1/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DoneitP1/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/DoneitP1/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0768-partition-labels](https://github.com/DoneitP1/LeetCode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/DoneitP1/LeetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/DoneitP1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
