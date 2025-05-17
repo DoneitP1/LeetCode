@@ -143,6 +143,7 @@
 | [0171-excel-sheet-column-number](https://github.com/DoneitP1/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/DoneitP1/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/DoneitP1/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/DoneitP1/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/DoneitP1/LeetCode/tree/master/0258-add-digits) |
 | [0888-mirror-reflection](https://github.com/DoneitP1/LeetCode/tree/master/0888-mirror-reflection) |
 | [0897-prime-palindrome](https://github.com/DoneitP1/LeetCode/tree/master/0897-prime-palindrome) |
@@ -209,6 +210,7 @@
 | [0002-add-two-numbers](https://github.com/DoneitP1/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DoneitP1/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/DoneitP1/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/DoneitP1/LeetCode/tree/master/0231-power-of-two) |
 ## Number Theory
 |  |
 | ------- |
@@ -390,6 +392,7 @@
 | [0190-reverse-bits](https://github.com/DoneitP1/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DoneitP1/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/DoneitP1/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/DoneitP1/LeetCode/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
