@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DoneitP1/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/DoneitP1/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [2868-continuous-subarrays](https://github.com/DoneitP1/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Sliding Window
 |  |
@@ -192,6 +193,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/DoneitP1/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DoneitP1/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/DoneitP1/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/DoneitP1/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/DoneitP1/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DoneitP1/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DoneitP1/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -413,4 +415,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DoneitP1/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/DoneitP1/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
