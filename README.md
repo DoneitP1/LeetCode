@@ -33,6 +33,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/DoneitP1/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DoneitP1/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2722-prime-in-diagonal](https://github.com/DoneitP1/LeetCode/tree/master/2722-prime-in-diagonal) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/DoneitP1/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2831-number-of-beautiful-pairs](https://github.com/DoneitP1/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 | [2868-continuous-subarrays](https://github.com/DoneitP1/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DoneitP1/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -57,6 +58,7 @@
 | [0952-word-subsets](https://github.com/DoneitP1/LeetCode/tree/master/0952-word-subsets) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DoneitP1/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DoneitP1/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/DoneitP1/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2831-number-of-beautiful-pairs](https://github.com/DoneitP1/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
 ## Sorting
 |  |
