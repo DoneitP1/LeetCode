@@ -53,6 +53,7 @@
 | [0202-happy-number](https://github.com/DoneitP1/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/DoneitP1/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/DoneitP1/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0299-bulls-and-cows](https://github.com/DoneitP1/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0768-partition-labels](https://github.com/DoneitP1/LeetCode/tree/master/0768-partition-labels) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/DoneitP1/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/DoneitP1/LeetCode/tree/master/0952-word-subsets) |
@@ -177,6 +178,7 @@
 | [0168-excel-sheet-column-title](https://github.com/DoneitP1/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DoneitP1/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/DoneitP1/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0299-bulls-and-cows](https://github.com/DoneitP1/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0768-partition-labels](https://github.com/DoneitP1/LeetCode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/DoneitP1/LeetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/DoneitP1/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -234,6 +236,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DoneitP1/LeetCode/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/DoneitP1/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/DoneitP1/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DoneitP1/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2831-number-of-beautiful-pairs](https://github.com/DoneitP1/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
