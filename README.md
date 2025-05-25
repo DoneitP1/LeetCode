@@ -149,6 +149,7 @@
 | [0204-count-primes](https://github.com/DoneitP1/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/DoneitP1/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/DoneitP1/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/DoneitP1/LeetCode/tree/master/0263-ugly-number) |
 | [0888-mirror-reflection](https://github.com/DoneitP1/LeetCode/tree/master/0888-mirror-reflection) |
 | [0897-prime-palindrome](https://github.com/DoneitP1/LeetCode/tree/master/0897-prime-palindrome) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/DoneitP1/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
