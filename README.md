@@ -21,6 +21,7 @@
 | [0169-majority-element](https://github.com/DoneitP1/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/DoneitP1/LeetCode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/DoneitP1/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/DoneitP1/LeetCode/tree/master/0268-missing-number) |
 | [0494-target-sum](https://github.com/DoneitP1/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/DoneitP1/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/DoneitP1/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -54,6 +55,7 @@
 | [0202-happy-number](https://github.com/DoneitP1/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/DoneitP1/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/DoneitP1/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/DoneitP1/LeetCode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/DoneitP1/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0768-partition-labels](https://github.com/DoneitP1/LeetCode/tree/master/0768-partition-labels) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/DoneitP1/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -68,6 +70,7 @@
 | [0015-3sum](https://github.com/DoneitP1/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/DoneitP1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DoneitP1/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/DoneitP1/LeetCode/tree/master/0268-missing-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/DoneitP1/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DoneitP1/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DoneitP1/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -124,6 +127,7 @@
 | [0035-search-insert-position](https://github.com/DoneitP1/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DoneitP1/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/DoneitP1/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/DoneitP1/LeetCode/tree/master/0268-missing-number) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DoneitP1/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Divide and Conquer
 |  |
@@ -152,6 +156,7 @@
 | [0231-power-of-two](https://github.com/DoneitP1/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/DoneitP1/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/DoneitP1/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/DoneitP1/LeetCode/tree/master/0268-missing-number) |
 | [0888-mirror-reflection](https://github.com/DoneitP1/LeetCode/tree/master/0888-mirror-reflection) |
 | [0897-prime-palindrome](https://github.com/DoneitP1/LeetCode/tree/master/0897-prime-palindrome) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/DoneitP1/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -407,6 +412,7 @@
 | [0191-number-of-1-bits](https://github.com/DoneitP1/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/DoneitP1/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/DoneitP1/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/DoneitP1/LeetCode/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
