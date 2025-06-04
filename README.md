@@ -128,6 +128,7 @@
 | [0069-sqrtx](https://github.com/DoneitP1/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/DoneitP1/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/DoneitP1/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/DoneitP1/LeetCode/tree/master/0278-first-bad-version) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DoneitP1/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Divide and Conquer
 |  |
@@ -434,4 +435,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DoneitP1/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DoneitP1/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/DoneitP1/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
