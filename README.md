@@ -42,6 +42,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DoneitP1/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DoneitP1/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/DoneitP1/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3719-longest-balanced-subarray-i](https://github.com/DoneitP1/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/DoneitP1/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/DoneitP1/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2831-number-of-beautiful-pairs](https://github.com/DoneitP1/LeetCode/tree/master/2831-number-of-beautiful-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/DoneitP1/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [0169-majority-element](https://github.com/DoneitP1/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DoneitP1/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DoneitP1/LeetCode/tree/master/0191-number-of-1-bits) |
+| [3719-longest-balanced-subarray-i](https://github.com/DoneitP1/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -356,6 +359,7 @@
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DoneitP1/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3719-longest-balanced-subarray-i](https://github.com/DoneitP1/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Graph
 |  |
 | ------- |
@@ -386,6 +390,7 @@
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/DoneitP1/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/DoneitP1/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3719-longest-balanced-subarray-i](https://github.com/DoneitP1/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
