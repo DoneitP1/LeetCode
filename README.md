@@ -13,6 +13,7 @@
 | [0018-4sum](https://github.com/DoneitP1/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/DoneitP1/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/DoneitP1/LeetCode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/DoneitP1/LeetCode/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/DoneitP1/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/DoneitP1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DoneitP1/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DoneitP1/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/DoneitP1/LeetCode/tree/master/0045-jump-game-ii) |
 | [0768-partition-labels](https://github.com/DoneitP1/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/DoneitP1/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/DoneitP1/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -377,6 +379,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DoneitP1/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DoneitP1/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/DoneitP1/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/DoneitP1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/DoneitP1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DoneitP1/LeetCode/tree/master/0119-pascals-triangle-ii) |
