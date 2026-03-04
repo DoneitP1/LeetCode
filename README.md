@@ -299,6 +299,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/DoneitP1/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/DoneitP1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DoneitP1/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -349,6 +350,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/DoneitP1/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/DoneitP1/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DoneitP1/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DoneitP1/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -387,6 +389,7 @@
 | [0045-jump-game-ii](https://github.com/DoneitP1/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/DoneitP1/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DoneitP1/LeetCode/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/DoneitP1/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/DoneitP1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DoneitP1/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DoneitP1/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -403,6 +406,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DoneitP1/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/DoneitP1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/DoneitP1/LeetCode/tree/master/0077-combinations) |
+| [0095-unique-binary-search-trees-ii](https://github.com/DoneitP1/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/DoneitP1/LeetCode/tree/master/0494-target-sum) |
 ## Prefix Sum
 |  |
@@ -448,6 +452,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/DoneitP1/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DoneitP1/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Topological Sort
 |  |
