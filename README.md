@@ -13,6 +13,7 @@
 | [0018-4sum](https://github.com/DoneitP1/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/DoneitP1/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/DoneitP1/LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/DoneitP1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DoneitP1/LeetCode/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/DoneitP1/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/DoneitP1/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -218,6 +219,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DoneitP1/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DoneitP1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DoneitP1/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DoneitP1/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/DoneitP1/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -289,6 +291,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DoneitP1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/DoneitP1/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DoneitP1/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DoneitP1/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -386,6 +389,7 @@
 | [0005-longest-palindromic-substring](https://github.com/DoneitP1/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DoneitP1/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/DoneitP1/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DoneitP1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DoneitP1/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/DoneitP1/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DoneitP1/LeetCode/tree/master/0070-climbing-stairs) |
@@ -424,6 +428,7 @@
 | [0018-4sum](https://github.com/DoneitP1/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/DoneitP1/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DoneitP1/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/DoneitP1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/DoneitP1/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DoneitP1/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DoneitP1/LeetCode/tree/master/0141-linked-list-cycle) |
